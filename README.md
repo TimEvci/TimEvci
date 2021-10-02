@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Gatsby, styled-components**
 
-- 👨‍💻 All of my projects are available at [tevci.dev](tevci.dev)
+- 👨‍💻 All of my projects are available at [tevci.dev](https://tevci.dev)
 
 - 💬 Ask me about **react, nextjs, material-ui, type-graphql**
 
