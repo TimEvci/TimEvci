@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quarterfall](https://quarterfall.com)
 
-- 🌱 I’m currently learning **Gatsby, styled-components**
+- 🌱 I’m currently learning **Gatsby, styled-components, Flutter, Dart**
 
 - 👨‍💻 All of my projects are available at [tevci.dev](https://tevci.dev)
 
