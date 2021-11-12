@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Quarterfall](https://quarterfall.com)
+- 🔭 I’m currently working for [Quarterfall](https://quarterfall.com)
 
 - 🌱 I’m currently learning **Gatsby, styled-components, Flutter, Dart**
 
