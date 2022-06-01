@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **react, nextjs, material-ui, type-graphql**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timevci&show_icons=true&locale=en&layout=compact" alt="timevci" /></p>
-
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
