@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Quarterfall](https://quarterfall.com)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **tRPC and Turborepo**
 
 - 👨‍💻 All of my projects are available at [tevci.dev](https://tevci.dev)
 
