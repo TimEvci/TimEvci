@@ -3,10 +3,10 @@
 
 
 
-- 🔭 I’m currently working for [Quarterfall](https://quarterfall.com)
+- 🔭 I’m currently working for [ArjanCodes](https://arjan.codes)
 
-- 🌱 I’m currently learning **tRPC and Turborepo**
+- 🌱 I’m currently learning **Python, FastAPI and Langchain**
 
-- 👨‍💻 All of my projects are available at [tevci.dev](https://tevci.dev)
+- 👨‍💻 All of my projects will be available at [tevci.dev](https://tevci.dev) soon
 
-- 💬 Ask me about **react, nextjs, material-ui, type-graphql**
+- 💬 Ask me about **react, nextjs, material-ui, type-graphql, server components**
