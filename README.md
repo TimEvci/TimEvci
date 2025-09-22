@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [ArjanCodes](https://arjan.codes)
 
-- 🌱 I’m currently learning **GSAP and Motion**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 My projects are available at [tevci.dev](https://tevci.dev)
 
