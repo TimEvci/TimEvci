@@ -7,5 +7,3 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 My projects are available at [tevci.dev](https://tevci.dev)
-
