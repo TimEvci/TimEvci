@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working for [ArjanCodes](https://arjan.codes)
+- 🔭 I’m currently working with [ArjanCodes](https://arjan.codes) and [Eggflame](https://eggflame.com)
 
 - 🌱 I’m currently learning **Swift**
 
